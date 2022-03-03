@@ -74,7 +74,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `email`, `phone`, `password`) VALUES
-('01', 'asif', 'asif', 1521227748, '1');
+('01', 'asif', 'asif', 152122, '1');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
